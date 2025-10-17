@@ -1,64 +1,52 @@
-# 👋 Hi, I'm Yifan (Kevin) Wu
+# Hi there, I'm Kevin Wu 👋
 
-🎓 **Computer Science & Statistics @ Columbia University (SEAS)**  
-💻 **Full Stack | Data | Machine Learning | Quantitative Systems**
-
----
-
-### 🧠 About Me
-I’m a **software engineer and data scientist** passionate about building scalable systems, analyzing complex data, and developing intelligent applications at the intersection of **machine learning, distributed systems, and quantitative research**.
-
-Currently, I’m building full-stack and data infrastructure tools at **Arklex AI** and conducting **ML-driven biomedical research** at Columbia’s **Laboratory for AI and Biomedical Sciences**.
+<a href="https://www.linkedin.com/in/kevinwu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kevinwu@columbia.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
-### 🔧 Technical Skills
-**Languages:** Python · Go · C++ · JavaScript (React) · Java · R · SQL  
-**Frameworks/Tools:** Docker · Redis · RabbitMQ · Tableau · Linux · Git · Azure MSAL  
-**Domains:** Backend Systems · Full-Stack Development · Data Analytics · Machine Learning · Statistical Modeling  
+## 🧠 About Me
+
+- 🎓 Studying **Computer Science and Statistics** at **Columbia University**.  
+- 🚀 **Full Stack Engineering Intern** at **Arklex AI**, engineering Go/Python backends and React UIs for high-volume voice systems with multi-provider TTS integration and robust automation. 
+- 💻 **Software Engineer at the Carlton Strength of Materials Laboratory**, leading development of a transport routing app using singum modeling.
+- 💡 Passionate about **backend systems**, **machine learning**, and **data-driven analytics**.  
+- ⚙️ Strong in **C++**, **Go**, and **Python**, with solid foundations in algorithms, distributed systems, and statistical modeling.  
 
 ---
 
-### 💼 Experience
-**🔹 Arklex AI — Full Stack Software Engineering Intern (Apr 2025 – Present)**  
-- Built and deployed **Go/Python backend + React UIs** powering 1M+ monthly voice calls  
-- Implemented mid-campaign pause/removal logic for a **$10K enterprise client**  
-- Created scalable APIs and integration tests, improving config efficiency by 30% and reducing errors by 60%  
-- Automated HubSpot exports across institutions, saving **$500/month** in ops costs  
+## 🔧 Tech Stack
 
-**🔹 CultHealth (An Indegene Company) — Software Engineering & Data Analytics Intern (Jun 2025 – Aug 2025)**  
-- Developed a **React + Tableau full-stack analytics platform** with AI chat assistant used by 150+ employees  
-- Integrated **Azure MSAL authentication** and persistent state management, eliminating repeated setup time  
-- Analyzed **1M+ user journey events** using Levenshtein distance clustering to uncover high-value behavioral patterns  
-- Earned a **return offer** and contributed to a forthcoming publication  
+### 💻 Programming Languages
 
-**🔹 Columbia LABS — Research Assistant (Mar 2025 – Present)**  
-- Built a reproducible **ML clustering evaluation framework** for Alzheimer’s disease subtyping  
-- Reverse-engineered MRI analysis pipelines for **high-performance computing (HPC)** workflows  
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
+### 🤖 Data & Machine Learning
 
-### 🧩 Selected Projects
-- **[Climate Change Forecasting](#)** — ARIMA + Grey Prediction modeling on 50+ years of climate data (99% accuracy)  
-- **[Movie Success Predictor](#)** — Neural network (numeric + NLP features) achieving **85% accuracy** on box office success  
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/hugging_face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
----
+### 🌐 Web Development
 
-### 🏆 Awards
-- USA Computing Olympiad **Gold Division**  
-- 4× **AIME Qualifier**  
-- 🥇 1st Place, Wisconsin Dairyland Programming Competition  
-- 🥇 1st Place, FBLA State Securities & Investments  
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/rest_api-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+### ☁️ Infrastructure & Platforms
 
-### 🌐 Connect With Me
-📫 **Email:** yw4448@columbia.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/kevin-wu-923a7b32a/)  
-💻 [GitHub](https://github.com/KevinWu06)  
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
-
-> “Engineering meets insight — I build systems that learn, adapt, and scale.”
-
-⭐️ *If you like my work, consider starring a few repositories!*
